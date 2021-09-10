@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="camera_top.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg1761"
+   version="1.1"
+   viewBox="0 0 5.9541898 8.4809799"
+   height="8.4809799mm"
+   width="5.9541898mm">
+  <defs
+     id="defs1755" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="55"
+     inkscape:window-height="1055"
+     inkscape:window-width="1749"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="-655.40154"
+     inkscape:cx="1259.8234"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata1758">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(227.49495,-321.57499)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       sodipodi:nodetypes="ccccccccccccc"
+       id="path2968-0"
+       d="m -221.54078,329.13142 c 0.003,0.73243 -0.35966,0.85612 -0.75527,0.92455 l -4.46645,-0.013 c -0.55763,0.003 -0.72118,-0.3625 -0.71619,-0.88547 l -0.013,-4.06278 c -0.0287,-0.50773 0.12779,-0.87236 0.63806,-0.96362 l 1.17195,-0.0391 -1.22079,-2.51701 h 4.80828 l -1.19149,2.53003 h 0.80735 c 0.46548,-0.014 0.81412,0.15324 0.92454,0.69016 z"
+       style="fill:#353535;fill-opacity:1;stroke:none;stroke-width:0.0515636px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

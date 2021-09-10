@@ -1,0 +1,2 @@
+The functions in this package are used to calculate the parameters and return a String value ready to be placed in the pdf report
+to simplify all the data will be get from the variable "pdfDataSource"
