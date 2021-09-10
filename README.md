@@ -1,16 +1,9 @@
-# capimobile
+# SurvAid
 
-CapiMobile is here
+![survaidlogo](./android/app/src/main/res/drawable/logo.png)
 
-## Getting Started
+Este é o repositório com o código completo do aplicativo multiplataforma SurvAid que foi desenvolvido como parte da pesquisa de doutorado de CD Viana, no Instituto de Geociências da Universidade de São Paulo. Trata-se de uma primeira tentativa de sistematizar as informações mais relevantes sobre o levantamento de imagens para a geração de modelos 3D de taludes usando Structure from Motion - Multi-view Stereo. Tem por objetivo auxiliar não especialista no Levantamento de campo 
 
-This project is a starting point for a Flutter application.
+# Prévia online
+Uma versão totalmente funcional pode ser acessada [aqui](https://capimobile.web.app/)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
